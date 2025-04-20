@@ -5,6 +5,6 @@ int main()
     a=1;
     b=2;
 
-    printf("%d",b-a);
+    printf("%d",a+b);
     return 0;
 }
